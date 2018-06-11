@@ -201,11 +201,12 @@ export default {
     position: fixed;
     bottom: 10px;
     right: 10px;
-    width: 60px;
-    height: 60px;
+    width: 50px;
+    height: 50px;
 
     > i {
-      font-size: 50px;
+      font-size: 40px;
+      line-height: 50px;
     }
   }
 }

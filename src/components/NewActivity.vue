@@ -3,7 +3,7 @@
     <Layout>
       <Header />
       <Content class="new-activity__content">
-        <ActivityDetail />
+        <ActivityDetail :method="1" />
       </Content>
     </Layout>
   </div>
